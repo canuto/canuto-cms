@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Hero
+image: /img/chemex.jpg
+heading: En liten overskrift
+subheading: En underoverskrift
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Hvorfor bruke Netlify CMS?
+  description: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin purus lacus,
+    pretium in tristique et, tempus quis urna. Cras feugiat viverra commodo.
+    Praesent aliquet ornare dignissim. Ut pretium sollicitudin accumsan. Quisque
+    id ullamcorper nisi, quis luctus neque. 
+
+
+    Phasellus a euismod massa. Nam ac ante sed lacus pellentesque volutpat ac ac tellus. Aliquam id placerat ex. Nulla facilisi. Vivamus consequat mi fringilla quam dapibus, a luctus risus pretium. Curabitur eu porttitor eros. Aliquam pulvinar condimentum mi in volutpat. Proin eros sem, vehicula at enim quis, egestas ultricies ante. 
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
+  purus lacus, pretium in tristique et, tempus quis urna. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +45,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Hva tilbys?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Ut pretium sollicitudin accumsan. Quisque id ullamcorper nisi, quis luctus
+    neque. Phasellus a euismod massa. Nam ac ante sed lacus pellentesque
+    volutpat ac ac tellus. Aliquam id placerat ex. Nulla facilisi. Aliquam
+    pulvinar condimentum mi in volutpat. Proin eros sem, vehicula at enim quis,
+    egestas ultricies ante. 
 main:
   heading: Great coffee with no compromises
   description: >
